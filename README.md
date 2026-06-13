@@ -1,6 +1,6 @@
-#JAYSWAP Token Logo Registry
+JAYSWAP Token Logo Registry
 
-##Official logo registry for token launches on JAYSWAP.
+Official logo registry for token launches on JAYSWAP.
 
 Overview
 
